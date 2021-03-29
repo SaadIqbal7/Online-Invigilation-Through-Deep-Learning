@@ -1,0 +1,13 @@
+lambda (for L2 regularization) = 0.01
+optimizer = Adam
+learning rate = 0.001
+Training set = 7500
+Validation set = 750
+Test set = 511
+Batch size = 64
+LSTM units = 256
+EPOCHS = 34
+
+Final Results:
+test accuracy = 0.9041
+validation accuracy = 0.9067
